@@ -1,7 +1,7 @@
-fun main(args: Array<String>) {
+fun main() {
     println("Hello World!")
-
-    // Try adding program arguments via Run/Debug configuration.
-    // Learn more about running applications: https://www.jetbrains.com/help/idea/running-applications.html.
-    println("Program arguments: ${args.joinToString()}")
+    println("My name is Matt Keyzer!")
+    println("This is my first time coding in kotlin.")
+    println("I love to hang out with my lizard and play with my cat.")
+    println("I'm excited to add some kotlin skills to my tool-belt ")
 }
